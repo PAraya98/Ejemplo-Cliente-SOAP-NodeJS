@@ -1,0 +1,24 @@
+{
+  "name": "ejemplo-soap-nodejs-javascript",
+  "version": "1.0.0",
+  "description": "Ejemplo de consumo de un Web Service basado en SOAP utilizando NodeJS con Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAraya98/Ejemplo-SOAP-NodeJS-Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PAraya98/Ejemplo-SOAP-NodeJS-Javascript/issues"
+  },
+  "homepage": "https://github.com/PAraya98/Ejemplo-SOAP-NodeJS-Javascript#readme",
+  "dependencies": {
+    "easy-soap-request": "^5.2.0",
+    "soap": "^1.0.0",
+    "xml-parse": "^0.4.0"
+  }
+}
